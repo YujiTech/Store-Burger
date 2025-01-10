@@ -3,4 +3,4 @@
 
  Store-Burger, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://yujitech.github.io/Store-Burger/"><strong>➥ Live Demo</strong></a> 
+  <a href="https://store-burger-il5bsquh1-yujitechs-projects.vercel.app"><strong>➥ Live Demo</strong></a>  
